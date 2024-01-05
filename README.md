@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sameerahmed720
 - 👀 I’m interested in ops work
-- 🌱 I’m currently learning terraform
+- 🌱 I’m currently learning kubernetes
 - 💞️ I’m looking to collaborate on <lets see that in future>
 - 📫 How to reach me <sameer.ahmed@hobsons.com>
 
